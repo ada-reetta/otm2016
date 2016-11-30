@@ -1,1 +1,1 @@
-! [kuva] (http://yuml.me/diagram/scruffy/class)
+! [kuva] (http://yuml.me/diagram/scruffy/class/)
