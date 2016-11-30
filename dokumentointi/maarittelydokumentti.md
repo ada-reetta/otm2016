@@ -1,1 +1,1 @@
-! [kuva] (<img src="http://yuml.me/diagram/scruffy/class/[User]" >)
+! [kuva] (Downloads/otm_kuva.png)
