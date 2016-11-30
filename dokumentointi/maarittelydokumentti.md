@@ -1,1 +1,1 @@
-! [kuva] (Downloads/otm_kuva.png)
+! [kuva] (http://yuml.me/diagram/scruffy/class)
