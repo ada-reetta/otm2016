@@ -11,3 +11,5 @@ Reetta sanoo:
 >Antaa tulla!
 
 [käyttö-ohje] (https://github.com/ada-reetta/otm2016/blob/master/dokumentointi/kaytto-ohje.md)
+[kuva] (https://github.com/ada-reetta/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
+
